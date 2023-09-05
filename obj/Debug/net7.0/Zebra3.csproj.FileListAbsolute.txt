@@ -1,0 +1,14 @@
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Zebra3\bin\Debug\net7.0\Zebra3.exe
+C:\Users\lukas\Desktop\Zebra3\bin\Debug\net7.0\Zebra3.deps.json
+C:\Users\lukas\Desktop\Zebra3\bin\Debug\net7.0\Zebra3.runtimeconfig.json
+C:\Users\lukas\Desktop\Zebra3\bin\Debug\net7.0\Zebra3.dll
+C:\Users\lukas\Desktop\Zebra3\bin\Debug\net7.0\Zebra3.pdb
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.dll
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\refint\Zebra3.dll
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.pdb
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\Zebra3.genruntimeconfig.cache
+C:\Users\lukas\Desktop\Zebra3\obj\Debug\net7.0\ref\Zebra3.dll
